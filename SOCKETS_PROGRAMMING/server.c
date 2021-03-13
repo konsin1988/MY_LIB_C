@@ -6,7 +6,7 @@
 #include <netinet/in.h>
 #include <string.h>
 
-#define PORT 8080
+#define PORT 8888
 
 int main(int argc, char const** argv)
 {
